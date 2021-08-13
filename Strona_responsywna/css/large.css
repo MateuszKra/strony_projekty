@@ -1,0 +1,12 @@
+.header-img {
+    background-image: url('/Strona_responsywna/img/wolf-2234511_1920.jpg');
+    background-size: cover;
+}
+
+
+/* MAIN */
+
+.main-product {
+
+    width: 50%;
+}
